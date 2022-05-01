@@ -4,6 +4,7 @@ N: Spîneci Cosmin Mugurel
 S: [Skype] cspineci@aol.com
 E: spineci@engineer.com
 W: drspineci.github.io
+S: [Status] Unemployed, gadgeting on a tower cd burner and robotic gadgets on Lint
 -
 Professional Summary:
 ---------------------
