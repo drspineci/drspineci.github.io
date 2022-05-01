@@ -1,0 +1,57 @@
+
+A: Romania, Bucharest, District 3rd, Str. no x, Street Stiubei
+   no. 23rd-25th
+N: Spîneci Cosmin Mugurel
+S: [Skype] cspineci@aol.com
+E: the same
+W: https://poetmusic.github.io/
+Expected salary: 22000 $/m
+Professional Summary:
+  Oriented Web and mobile developer, analitycal oriented
+  with human networking skills.
+  Find more about me and my passion for webdesign and 
+  android at http://poetmusic.github.io
+  Also i post frequently on this pages poems and many 
+  more which i endeavour daily. 
+  All of this is copyright to myself;
+  Free to visit our codes at http://www.github.com/topcat09er
+  I tooked a Stanford course a long time ago of java and 
+  never ended crafting android applications as you can 
+  see from my portofolio on github or related app links.
+Experience:
+  - Html 5 + Bootstrap + Python + Django + Storage 
+    functionalities as SQL Models and Migrations with
+    Mysql, PostgreSql, Sqlite;
+  - Kotlin, Java Rx;
+  - GIT, svn, repo, other;
+  - embedded tv running on linux, roku, android tv, os 
+    android watch, tv, phone and for long vehicles;
+  - Ubuntu server experience and terminal functions with
+    unix command;
+  - Good understanding of writing Android Apps and also 
+    Websites using Html 5 flex technology;
+  - Back-end php api's which communicate to storage and
+    mobile clients among Android, iOS also;
+  - C++ based on old knowledge of Objective-C; 
+Carrier:
+  - may 2008 - present: 
+    - Respond to my clients portofolio need delivering 
+      feasible and effective solutions.
+    - Coordinating with other freelance members to create
+      Web, iOS & Android app in a knick of time. 
+    - Ensuring apps are delivered under all kind of tests.
+    - Optimizing my work to be reused ensuring a flexible 
+      and agile use.
+    - Created various Android apps.
+    - Working in a agile team with nice members.
+Education:
+ - 2007 - One year in Transilvania University of 
+      Electrical Engineering and Computer Science in English
+My life:
+  - I like to stay active I enjoy jogging in the surfing,
+    bike riding mountain bike and speed bikes too.
+  - I love swimming whenever i have the chance. I like 
+    dogs.
+  - I had a labrodor  Afi but now i am thinking of 
+    owning a cat and a flying parrot. I like to stay 
+    fit everyday, woke up at 05:30 AM and do homeworks.
