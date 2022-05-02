@@ -70,5 +70,10 @@ My life:
     and morning swims in the ocean and helping pops out. 
     I like to stay fit everyday, woke up at 05:30 AM and 
     do homeworks. 
+    References: 
+    TORQUE course from University of California, San Francisco
+    CS 193A: Android App Development, Winter 2019,  University of         Stanford ,California
+    CS193p - Developing Apps for iOS. University of Stanford,     California 
+    CS50's Web Programming with Python and JavaScript, University of Harvard, Massachusetts
+Goodbye for now, i am off to work.
            
-           Goodbye for now, i am off to work.
