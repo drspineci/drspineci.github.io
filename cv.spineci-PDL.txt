@@ -8,6 +8,13 @@ S: [Status] Unemployed, gadgeting on a tower cd burner and robotic gadgets on Li
 -
 Professional Summary:
 ---------------------
+ - 14 years writing software in industry;
+ - Server-side/infrastructure backend engineering;
+ - SRE; i do care of operational ergonomics;
+  - Building new backend services, test and autiomations 
+  depending on needs; 
+  - Infrastructure and CI or CD with Linux
+  Previously: trading systems and android methodology
   Oriented Web and mobile developer, analitycal oriented
   with human networking skills.
   Find more about me and my passion for webdesign and 
