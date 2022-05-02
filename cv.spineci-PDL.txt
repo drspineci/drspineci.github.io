@@ -13,7 +13,7 @@ Professional Summary:
  - SRE; i do care of operational ergonomics;
   - Building new backend services, test and autiomations 
   depending on needs; 
-  - Infrastructure and CI or CD with Linux
+  - Infrastructure and CI or CD with Lint
   Previously: trading systems and android methodology
   Oriented Web and mobile developer, analitycal oriented
   with human networking skills.
