@@ -1,10 +1,10 @@
-Keywords: Training, Mentoring, Functional Programming, c-sharp
+Keywords: Training, Mentoring, Functional Programming, c-sharp, debian operating system
 A: Germany, Berlin, Oranienburgerstrabe no. 10 
 N: Spîneci Cosmin Mugurel
 S: [Skype] cspineci@aol.com
 E: spineci@engineer.com
 W: drspineci.github.io
-S: [Status] Unemployed, gadgeting on a tower cd burner and robotic gadgets on Lint
+S: [Status] Unemployed, gadgeting on a tower cd burner and robotic gadgets on Lint and owning my own operating system [GNU License].
 -
 Professional Summary:
 ---------------------
