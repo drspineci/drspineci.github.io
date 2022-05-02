@@ -3,7 +3,10 @@
 Status: working on a new game rendering engine 
  
  <style>
-
+body {
+  background-image: url('ii.png');
+}
+ </style>
     <!-- <div>
     Tutorial - installing a debian image <a href="https://drspineci.github.io/install-debian.text" > debian image </a>
   </div>
@@ -21,7 +24,6 @@ Burning a mp3 cd after using a app for downloading u.k. music<a href="https://dr
 Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt" > here</a>
   </div>
 
-</style>
 
  
   
