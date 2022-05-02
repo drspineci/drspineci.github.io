@@ -23,8 +23,8 @@ Experience:
 -----------
   - Html 5 + Bootstrap + Python + Django + Storage 
     functionalities as SQL Models and Migrations with
-    Mysql, PostgreSql, Sqlite, server management, NAS
-    Cluster engine, resort api's; 
+    Mysql, PostgreSql, Sqlite, server management, NAS,
+    Data Services Hub, Cluster engine, resort api's; 
   - Kotlin, Java Rx;
   - .net, c-sharp, fortran, cobol, swift;
   - GIT, svn, repo, other;
