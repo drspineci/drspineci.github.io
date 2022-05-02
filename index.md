@@ -9,6 +9,6 @@ Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt"
   </div>
   
    <div>
-    Tutorial - encrypting/decrypting a folder or file p <a href="https://drspineci.github.io/2.txt" > with openssl </a>
+    Tutorial - encrypting <a href="https://drspineci.github.io/encrypt2-0.sh" > with openssl </a>  and  <a href="https://drspineci.github.io/decrypt2-0.sh" > decrypting </a> a folder or file 
   </div>
   </html>
