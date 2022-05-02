@@ -2,11 +2,7 @@
 <html>
 Status: working on a new game rendering engine 
  
- <style>
-head {
-  background-image: url('ii.png');
-}
- </style>
+ 
  <head> 
   This is it 
  </head>
