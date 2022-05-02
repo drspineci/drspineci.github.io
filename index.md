@@ -3,7 +3,7 @@
 Status: working on a new game rendering engine 
  
  <style>
-body {
+div {
   background-image: url('ii.png');
 }
  </style>
