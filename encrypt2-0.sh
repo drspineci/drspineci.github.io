@@ -1,4 +1,4 @@
-First we create a bash script 
+#First we create a bash script 
 $: touch encrypt.sh
 #we add an argument to the script with the filename we wan't to encrypt but first we will archive it using tar
 $: nano encrypt.sh
@@ -10,4 +10,9 @@ tar -czvf "$hen" $1
 openssl enc -in "$hen" -out .dump.dat -e -aes256
 #at the end we will remove the archive which before it was cyphered
 rm -r "$1.tar.gz" 
+#we now save the script 
+
+#For running the script for the first time 
+$: ./encrypt.sh nameOfFolderToEncrypt
+#enter the password for the encryption, please make sure you write it down 
 
