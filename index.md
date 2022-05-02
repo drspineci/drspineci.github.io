@@ -25,7 +25,6 @@ Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt"
 
 </style>
 
-}
  
   
  
