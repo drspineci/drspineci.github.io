@@ -29,7 +29,7 @@ Experience:
     functionalities as SQL Models and Migrations with
     Mysql, PostgreSql, Sqlite, server management, NAS,
     Data Services Hub, Cluster engine, resort api's; 
-  - Kotlin, Java Rx;
+  - Kotlin, Java Rx, slurm;
   - .net, c-sharp, fortran, cobol, swift;
   - GIT, svn, repo, other;
   - embedded tv running on, android tv, os 
