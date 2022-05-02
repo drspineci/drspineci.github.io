@@ -4,7 +4,7 @@ Status: working on a new game rendering engine
  
  <style>
 body {
-  background-image: url('2022-05-02_06-28_1.png');
+  background-image: url('ii.png');
 }
 
     <!-- <div>
