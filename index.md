@@ -3,9 +3,7 @@
 Status: working on a new game rendering engine 
  
  <style>
-body {
-  background-image: url('ii.png');
-}
+
     <!-- <div>
     Tutorial - installing a debian image <a href="https://drspineci.github.io/install-debian.text" > debian image </a>
   </div>
