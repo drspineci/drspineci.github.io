@@ -19,11 +19,6 @@ Burning a mp3 cd after using a app for downloading u.k. music<a href="https://dr
   </div>
  
 }
-  
- 
- 
- 
- 
  
    <div>
 Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt" > here</a>
