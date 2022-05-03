@@ -13,10 +13,6 @@ Checkout below
  </head>
  <body>
 
-   <div>
-    Tutorial -  <a href="https://drspineci.github.io/encrypt2-0.sh" > encrypting </a> with openssl and  <a href="https://drspineci.github.io/decrypt2-0.sh" > decrypting </a> a folder or file 
-  </div>
-  
   <div>
   Utility cypher : <a href="https://github.com/drspineci/drspineci.github.io/blob/main/t-encrypting-and-decrypting-files.md" > T- encrypt & decrypt big data  </a>
   </div>
