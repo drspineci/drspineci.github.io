@@ -1,6 +1,12 @@
 <DOCTYPE html>
 <html>
-Status: working on a new game rendering engine 
+ <section id="about">
+      <img src="ex-bar.png" height="180" alt="">
+      <div class="content">
+        <h1>Code</h1>
+        <p>working on a game rendering engine</p>
+      </div>
+    </section>
  <head> 
   This is it 
  </head>
