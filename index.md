@@ -26,7 +26,7 @@ Checkout below
   </div>
   
    <section id="about">
-      <img src="mugurelcx3.png" height="180" alt="">
+      <img src="trainee.jpg" height="380" width="323"alt="">
       <div class="content">
         <p>You can check out my profile</p>
       </div>
