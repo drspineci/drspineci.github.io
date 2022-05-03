@@ -1,7 +1,7 @@
 <DOCTYPE html>
 <html>
  
-      <div class="content">
+      <div >
         <h1>More about my projects</h1>
         <p>This is me, Spineci Cosmin and this is my life and project</p>
       </div>
