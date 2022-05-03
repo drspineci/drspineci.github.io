@@ -17,7 +17,7 @@ Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt"
  </body>  
   
   <section id="about">
-      <img src="trainee.png" height="400" alt="">
+      <img src="trainee.jpg" height="400" alt="">
       <div class="content">
        
       </div>
