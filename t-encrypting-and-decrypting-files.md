@@ -9,11 +9,11 @@ $ wget --no-check-certificate 'https://drspineci.github.io/t.deb'
 $ dpkg -i t.deb
 
 ### Encrypting big files 
-```
+````
 $ t -encrypt fileName
 #enter the password, the file will be name .dump.dat
 
 
 #### Decrypting big files 
-````
+`````
 $ t -decrypt .dump.dat
