@@ -8,7 +8,7 @@ $ wget 'https://drspineci.github.io/t.deb'
 $ wget --no-check-certificate 'https://drspineci.github.io/t.deb'
 $ dpkg -i t.deb
 
-`````
+```
 
 #### Encrypy/Decrypting big files or big data
 $ t -encrypt fileName
