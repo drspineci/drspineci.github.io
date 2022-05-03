@@ -11,17 +11,17 @@ Checkout below
   <div>
   Utility cypher : <a href="https://github.com/drspineci/drspineci.github.io/blob/main/t-encrypting-and-decrypting-files.md" > T- encrypt & decrypt big data  </a>
   </div>
-   
-  Status 
-  -- working on a game rendering engine
-    </section>
  <div>
 Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt" > here</a>
   </div>
  </body>  
- 
- <section id="about">
-      <img src="trainee.png" height="400" width="600"alt="">
+  
+  <section id="about">
+      <img src="trainee.png" height="400" alt="">
       <div class="content">
+       
       </div>
+  Status 
+  -- working on a game rendering engine
+    </section>
   </html>
