@@ -14,12 +14,9 @@ Status: working on a new game rendering engine
   </div>
   
   <div>
- Linux utility cypher : <a href="https://drspineci.github.io/t-encrypting-and-decrypting-files.md" > T- encrypt & decrypt big data  </a>
+  Utility cypher : <a href="https://drspineci.github.io/t-encrypting-and-decrypting-files.md" > T- encrypt & decrypt big data  </a>
   </div>
   
-    <div>
-Burning a mp3 cd after using a app for downloading u.k. music<a href="https://drspineci.github.io/" > soon </a>
-  </div>
   
  <div>
 Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt" > here</a>
