@@ -13,10 +13,17 @@ Status: working on a new game rendering engine
     Tutorial -  <a href="https://drspineci.github.io/encrypt2-0.sh" > encrypting </a> with openssl and  <a href="https://drspineci.github.io/decrypt2-0.sh" > decrypting </a> a folder or file 
   </div>
   <div>
-Burning a mp3 cd after using a app for downloading u.k. music<a href="https://drspineci.github.io" > soon </a>
+ Linux utility to encrypt decrypt data <a href="https://drspineci.github.io/t-encrypting-and-decrypting-files.md" > soon </a>
+  </div>
+  
+    <div>
+Burning a mp3 cd after using a app for downloading u.k. music<a href="https://drspineci.github.io/" > soon </a>
   </div>
  <div>
 Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt" > here</a>
   </div>
+  
+  
+  
  </body>  
   </html>
