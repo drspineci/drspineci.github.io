@@ -28,49 +28,31 @@ Experience:
   - Html 5 + Bootstrap + Python + Django + Storage 
     functionalities as SQL Models and Migrations with
     Mysql, PostgreSql, Sqlite, server management, NAS,
-    Data Services Hub, Cluster engine, resort api's; 
-  - Kotlin, Java Rx, slurm;
-  - .net, c-sharp, fortran, cobol, swift;
-  - GIT, svn, repo, other;
-  - embedded tv running on, android tv, os 
-    android watch, tv, phone and for long vehicles;
-  - Ubuntu server experience and terminal functions with
-    unix command;
-  - Good understanding of writing Android Apps and also 
-    Websites using Html 5 flex technology;
-  - Back-end php api's which communicate to storage and
-    mobile clients among Android, iOS also;
-  - C++ based on old knowledge of Objective-C; 
-  - Microservices 
+    Data Services Hub,  engine, resort api's; 
+  - Some android and github
+  - GIT, svn, repo;
+  - mobile websites also;
+  - Websites using Html 5 flex technology;
+  - Back-end php api's which communicate to storage;
 Carrier:
 --------
   - may 2008 - present: 
     - Respond to my clients portofolio need delivering 
       feasible and effective solutions.
     - Coordinating with other freelance members to create
-      Web, iOS & Android app in a knick of time. 
+      Web and mobile websites;
     - Ensuring apps are delivered under all kind of tests.
     - Optimizing my work to be reused ensuring a flexible 
       and agile use.
-    - Created various Android apps.
-    - Working in a agile team with nice members.
+    - Working at work inside teams.
 Education:
 ----------
  - 2007 - One year in Transilvania University of 
       Electrical Engineering and Computer Science in English
+ - CS50's Web Programming with Python and JavaScript, University of Harvard, Massachusetts
+Goodbye for now, i am off to work.
 My life:
   - I like to stay active I enjoy jogging in the surfing,
     bike riding mountain bike and speed bikes too.
-  - I love swimming whenever i have the chance. I like 
-    dogs.
-  - I had a labrodor  Afi but passed away. I love the ocean 
-    and morning swims in the ocean and helping pops out. 
-    I like to stay fit everyday, woke up at 05:30 AM and 
-    do homeworks. 
-    References: 
-    TORQUE course from University of California, San Francisco
-    CS 193A: Android App Development, Winter 2019,  University of Stanford ,California
-    CS193p - Developing Apps for iOS. University of Stanford, California 
-    CS50's Web Programming with Python and JavaScript, University of Harvard, Massachusetts
-Goodbye for now, i am off to work.
+   
            
