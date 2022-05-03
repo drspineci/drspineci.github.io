@@ -10,7 +10,7 @@
   -- working on a game rendering engine
     </section>
  <head> 
-  This is it 
+Checkout below
  </head>
  <body>
  <!-- <div>
