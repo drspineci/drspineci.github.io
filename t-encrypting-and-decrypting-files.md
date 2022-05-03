@@ -14,8 +14,8 @@ $ dpkg -i t.deb
 
 ```
 $ t -encrypt fileName
-#enter the password, the file will be name .dump.dat
-#and for decrypting
+#enter the password, the file will be name .dump.dat 
+#and for decrypting 
 $ t -decrypt .dump.dat
 
 
