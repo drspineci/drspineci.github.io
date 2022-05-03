@@ -1,9 +1,10 @@
 <DOCTYPE html>
 <html>
  
-        <h1>More about my projects</h1>
+     
+ <head>
+     <h1>More about my projects</h1>
         <p>This is me, Spineci Cosmin and this is my life and project</p>
- <head> 
 Checkout below
  </head>
  <body>
