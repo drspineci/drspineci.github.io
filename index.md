@@ -3,9 +3,11 @@
  <section id="about">
       <img src="ex-bar.png" height="180" alt="">
       <div class="content">
-        <h1>Code</h1>
-        <p>working on a game rendering engine</p>
+        <h1>More about my projects</h1>
+        <p>This is me, Spineci Cosmin and this is my life and project</p>
       </div>
+  Status 
+  -- working on a game rendering engine
     </section>
  <head> 
   This is it 
