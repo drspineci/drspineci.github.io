@@ -25,6 +25,14 @@ Checkout below
   Utility cypher : <a href="https://github.com/drspineci/drspineci.github.io/blob/main/t-encrypting-and-decrypting-files.md" > T- encrypt & decrypt big data  </a>
   </div>
   
+   <section id="about">
+      <img src="mugurelcx3.png" height="180" alt="">
+      <div class="content">
+        <p>You can check out my profile</p>
+      </div>
+  Status 
+  -- working on a game rendering engine
+    </section>
   
  <div>
 Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt" > here</a>
