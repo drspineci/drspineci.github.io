@@ -4,6 +4,7 @@ N: Spîneci Cosmin Mugurel
 S: [Skype] cspineci@aol.com
 E: spineci@engineer.com
 W: drspineci.github.io
+L: linkedin.com/in/cosmin-mugurel-spineci-401808239
 S: [Status] Working on mit gadgeting on a field video cassete writer with robotic gadgets of lift
 -
 Professional Summary:
