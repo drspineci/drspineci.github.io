@@ -9,6 +9,7 @@ Checkout below
  </head>
  <body>
   <div>
+   Hardware recovery and manufacturing
   Utility cypher : <a href="https://github.com/drspineci/drspineci.github.io/blob/main/t-encrypting-and-decrypting-files.md" > T- encrypt & decrypt big data  </a>
   </div>
  <div>
