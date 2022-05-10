@@ -4,6 +4,7 @@
  <head>
      <h1>More about my projects</h1>
         <p>This is me, Spineci Cosmin and this is my life and project</p>
+<p>  Cosmyi: Programmer, STEM & Free Software Lawyer, Enlightened Agent, Transhumanist, Debian contributor </p>
 Checkout below
   -------------------------------------
  </head>
