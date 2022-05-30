@@ -1,16 +1,16 @@
-K [Keywords]: Training, Mentoring, Functional Programming, c-sharp
-A [Adress]:  Germany, Berlin, Oranienburgerstrabe no. 10;
-A Romania, Buzau, str. aleea insulei no. 9;
-A Romania, Bucharest, str. Stiubei, no. 23-24, ap. 9;
-N [Name]: Spîneci Cosmin Mugurel;
-S [Skype]: cspineci@aol.com;
+K: [Keywords]: Training, Mentoring, Functional Programming, c-sharp
+A: [Adress]:  Germany, Berlin, Oranienburgerstrabe no. 10;
+A: Europe, Romania, Buzau, str. aleea insulei no. 9;
+A: Europe, Romania, Bucharest, str. Stiubei, no. 23-24, ap. 9;
+N: [Name]: Spîneci Cosmin Mugurel;
+S: [Skype]: cspineci@aol.com;
 E: spineci@engineer.com;
 W: drspineci.github.io;
-M: [civil status] Divorced;
-R: [religion] Catholic;
+M: [civil status]: Divorced;
+R: [religion]: Catholic;
 L: linkedin.com/in/cosmin-mugurel-spineci-401808239;
-S: [Status.V2] Working on my own lab. [Status.V1] Working on a robotic arm;
-H: [Hobby] love cooking for the whole familly and walking the dogs
+S: [Status.V2]: Working on my own lab. [Status.V1] Working on a robotic arm;
+H: [Hobby]: love cooking for the whole familly and walking the dogs
 
 PS [professional summary]:
 ---------------------
