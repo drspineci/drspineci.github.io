@@ -14,6 +14,8 @@ H: [Hobby]: love cooking for the whole familly and walking the dogs
 
 PS [professional summary]:
 ---------------------
+ - Build by a phone line manager around the world
+   across multiple carriers;
  - 14 years writing software in industry;
  - Server-side/infrastructure backend engineering;
  - SRE; i do care of operational ergonomics;
