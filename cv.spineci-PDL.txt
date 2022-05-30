@@ -1,13 +1,19 @@
 Keywords: Training, Mentoring, Functional Programming, c-sharp
-A: Germany, Berlin, Oranienburgerstrabe no. 10 
-N: Spîneci Cosmin Mugurel
+A1: Germany, Berlin, Oranienburgerstrabe no. 10;
+A2: Romania, Buzau, str. aleea insulei no. 9;
+A3: Romania, Bucharest, str. Stiubei, no. 23-24, ap. 9;
+N: [Name] Spîneci Cosmin Mugurel
 S: [Skype] cspineci@aol.com
 E: spineci@engineer.com
 W: drspineci.github.io
+M: [civil status] Divorced
+R: [religion] Catholic
 L: linkedin.com/in/cosmin-mugurel-spineci-401808239
 S: [Status] Working on mit gadgeting on a field video cassete writer with robotic gadgets of lift
+H: [Hobbye] love cooking for the whole familly and walking the dogs
+
 -
-Professional Summary:
+PS [professional summary]:
 ---------------------
  - 14 years writing software in industry;
  - Server-side/infrastructure backend engineering;
@@ -24,7 +30,7 @@ Professional Summary:
   I tooked a Stanford course a long time ago of java and 
   never ended crafting android applications as you can 
   see from my portofolio on github or related app links.
-Experience:
+Ex [Experience]:
 -----------
   - Html 5 + Bootstrap + Python + Django + Storage 
     functionalities as SQL Models and Migrations with
@@ -35,7 +41,7 @@ Experience:
   - mobile websites also;
   - Websites using Html 5 flex technology;
   - Back-end php api's which communicate to storage;
-Carrier:
+Ca [Carrier]:
 --------
   - may 2008 - present: 
     - Respond to my clients portofolio need delivering 
@@ -46,14 +52,14 @@ Carrier:
     - Optimizing my work to be reused ensuring a flexible 
       and agile use.
     - Working at work inside teams.
-Education:
+Ed [Education]:
 ----------
  - 2007 - One year in Transilvania University of 
       Electrical Engineering and Computer Science in English
  - CS50's Web Programming with Python and JavaScript, University of Harvard, Massachusetts
 Goodbye for now, i am off to work.
-My life:
+More about work
   - I like to stay active I enjoy jogging in the surfing,
     bike riding mountain bike and speed bikes too.
-   
+Cs [Civil status]: In a divorce to get my dog.  
            
