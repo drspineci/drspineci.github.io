@@ -2,15 +2,15 @@ Keywords: Training, Mentoring, Functional Programming, c-sharp
 A1: Germany, Berlin, Oranienburgerstrabe no. 10;
 A2: Romania, Buzau, str. aleea insulei no. 9;
 A3: Romania, Bucharest, str. Stiubei, no. 23-24, ap. 9;
-N: [Name] Spîneci Cosmin Mugurel
-S: [Skype] cspineci@aol.com
-E: spineci@engineer.com
-W: drspineci.github.io
-M: [civil status] Divorced
-R: [religion] Catholic
-L: linkedin.com/in/cosmin-mugurel-spineci-401808239
-S: [Status] Working on mit gadgeting on a field video cassete writer with robotic gadgets of lift
-H: [Hobbye] love cooking for the whole familly and walking the dogs
+N: [Name] Spîneci Cosmin Mugurel;
+S: [Skype] cspineci@aol.com;
+E: spineci@engineer.com;
+W: drspineci.github.io;
+M: [civil status] Divorced;
+R: [religion] Catholic;
+L: linkedin.com/in/cosmin-mugurel-spineci-401808239;
+S: [Status.V2] Working on my own lab. [Status.V1] Working on mit gadgeting on a field video cassete writer with robotic gadgets of lift;
+H: [Hobby] love cooking for the whole familly and walking the dogs
 
 -
 PS [professional summary]:
@@ -25,7 +25,8 @@ PS [professional summary]:
   Oriented Web and mobile developer, analitycal oriented
   with human networking skills. 
   Also i post frequently on this pages poems and many 
-  more which i endeavour daily. 
+  more which i endeavour daily. Feel free to see at [under 
+  maintanence, check tomorrow];
   All of this is copyright to myself;
   I tooked a Stanford course a long time ago of java and 
   never ended crafting android applications as you can 
@@ -38,7 +39,7 @@ Ex [Experience]:
     Data Services Hub,  engine, resort api's; 
   - Some android and github
   - GIT, svn, repo;
-  - mobile websites also;
+  - mobile websites also; working on my own lab;
   - Websites using Html 5 flex technology;
   - Back-end php api's which communicate to storage;
 Ca [Carrier]:
