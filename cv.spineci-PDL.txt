@@ -8,6 +8,7 @@ E: spineci@engineer.com;
 W: drspineci.github.io;
 M: [civil status]: Divorced;
 R: [religion]: Catholic;
+P: email me if you need the number
 L: linkedin.com/in/cosmin-mugurel-spineci-401808239;
 S: [Status.V2]: Working on my own lab. [Status.V1] Working on a robotic arm;
 H: [Hobby]: love cooking for the whole familly and walking the dogs
