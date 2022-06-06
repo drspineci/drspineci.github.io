@@ -1,4 +1,5 @@
-Limba: Romana
+Mai jos il puteti gasi tradus si in limba Romana pentru clasa de programare. 
+
 
 What is Git? 
 
