@@ -1,5 +1,4 @@
 <html>
- 
      
  <head>
      <h1>More about my projects</h1>
