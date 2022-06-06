@@ -18,7 +18,8 @@ How to use github? <a href="https://drspineci.github.io/how-to-use-git.txt" > he
  <div>
 Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt" > here</a>
   </div>
- </body>  
+<div> My ex power supply </div> <a href="https://drspineci.github.io/power.c" > proj</a> 
+</body>  
   
   <section id="about">
       <img src="trainee.jpg" height="400" alt="">
