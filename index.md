@@ -13,6 +13,9 @@ Checkout below
    Hardware recovery and manufacturing
   Utility cypher : <a href="https://github.com/drspineci/drspineci.github.io/blob/main/t-encrypting-and-decrypting-files.md" > T- encrypt & decrypt big data  </a>
   </div>
+   <div>
+How to use github? <a href="https://drspineci.github.io/how-to-use-git.txt" > here</a>
+  </div>
  <div>
 Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt" > here</a>
   </div>
