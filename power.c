@@ -1,7 +1,7 @@
-
-
-           Autonomous      \ /
-	      |-Energy    --O--
+####/----
+sun/\    
+##\        Autonomous      \ /
+||\	      |-Energy    --O--
 	      |            /|\
               |             |
            |--|-------|     |
