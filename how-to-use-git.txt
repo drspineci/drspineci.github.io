@@ -1,0 +1,27 @@
+What is Git? 
+
+The symbol of modern democracy in writting free software. 
+
+What we need to know about it? 
+$:git init #[initializes a brand new repo] 
+
+$:git clone #[copies the integrated stuff]
+
+$:git addd stage #[performs control and history permit
+
+$:git commit #[saves check]
+
+$:git status #[shows checkout]
+
+$:git branch #[shows what's wrong] 
+
+$:git merge #[let-s merge between your collegue and you]
+
+$:git pull #[let's update the project with what's online]
+
+$:git push #[your changes will be transfered to github so you don't change the event]
+
+Now let's think about the class 
+
+-demo preview of a well written class to explain a exam and how to do math and homework as well 
+-By me.
