@@ -4,6 +4,7 @@
      <h1>More about my projects</h1>
         <p>This is me, Spineci Cosmin and this is my life and project</p>
 <p>  Cosmyi: Programmer, STEM & Free Software Lawyer, Enlightened Agent, Transhumanist, Debian contributor </p>
+<p>Status: Preparing for comming to Romania to join Bucharest Tech Week </p>
 Checkout below
   -------------------------------------
  </head>
