@@ -23,7 +23,7 @@ Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt"
 </body>  
   
   <section id="about">
-      <img src="trainee.jpg" height="400" alt="">
+      <img src="ii.png" height="400" alt="">
      
   Status 
   -- working on a game rendering engine
