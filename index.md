@@ -20,8 +20,45 @@ How to use github? <a href="https://drspineci.github.io/how-to-use-git.txt" > he
 Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt" > here</a>
   </div>
 <div> My ex power supply </div> <a href="https://drspineci.github.io/power.c" > proj</a> 
-<div> A draft i wrote for you know who </div> <a href="https://drspineci.github.io/le_c.pdf" >,The I</a>
-<div> My draft </div> <a href="https://drspineci.github.io/le_py.pdf" > The python for cYuai </a>
+<div> A draft i wrote for you know who </div> <a href="https://drspineci.github.io/hot/le_c.pdf" >,The I</a>
+<div> My draft </div> <a href="https://drspineci.github.io/hot/le_py.pdf" > The python for cYuai </a>
+<div> My bad,it-s a div </div> <a href="https://drspineci.github.io/hot/le_f.pdf" > The di </a>
+
+<p> And other usefull stuff for my students back in USA and UK </p>
+<div> Paper one </div> <a href="https://drspineci.github.io/hot/le_c++.pdf" > proj</a> 
+<div> Paper two </div> <a href="https://drspineci.github.io/hot/le_g.pdf" >,The I</a>
+<div> Paper three </div> <a href="https://drspineci.github.io/hot/le_go.pdf" > The python for cYuai </a>
+<div> Paper four </div> <a href="https://drspineci.github.io/hot/le_j.pdf" > The di </a>
+
+
+<div> Paper five </div> <a href="https://drspineci.github.io/hot/le_java.pdf" > proj</a> 
+<div> Paper six </div> <a href="https://drspineci.github.io/hot/le_k.pdf" >,The I</a>
+<div> Paper seven </div> <a href="https://drspineci.github.io/hot/le_obj.pdf" > The python for cYuai </a>
+<div> Paper eight </div> <a href="https://drspineci.github.io/hot/le_pe.pdf" > The di </a>
+
+
+<div> Paper nine </div> <a href="https://drspineci.github.io/hot/le_s.pdf" > proj</a> 
+<div> Paper ten </div> <a href="https://drspineci.github.io/hot/le_w.pdf" >,The I</a>
+
+
+<!--
+<p>Under construction </p>
+<div> Paper eleven </div> <a href="https://drspineci.github.io/le_py.pdf" > The python for cYuai </a>
+<div> Paper twelve </div> <a href="https://drspineci.github.io/le_f.pdf" > The di </a>
+
+
+<div> Paper thirteen </div> <a href="https://drspineci.github.io/power.c" > proj</a> 
+<div> Paper fourteen</div> <a href="https://drspineci.github.io/le_c.pdf" >,The I</a>
+<div> Paper fifteen </div> <a href="https://drspineci.github.io/le_py.pdf" > The python for cYuai </a>
+<div> Paper sixteen </div> <a href="https://drspineci.github.io/le_f.pdf" > The di </a>
+
+<div> Paper seventeen </div> <a href="https://drspineci.github.io/power.c" > proj</a> 
+<div> Paper nineteen </div> <a href="https://drspineci.github.io/le_c.pdf" >,The I</a>
+<div> Paper twenty </div> <a href="https://drspineci.github.io/le_py.pdf" > The python for cYuai </a>
+-->
+
+
+
 </body>  
   
   <section id="about">
@@ -31,3 +68,4 @@ Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt"
   -- working on a game rendering engine
     </section>
   </html>
+
