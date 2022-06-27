@@ -21,7 +21,7 @@ Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt"
   </div>
 <div> My ex power supply </div> <a href="https://drspineci.github.io/power.c" > proj</a> 
 <div> A draft i wrote for you know who </div> <a href="https://drspineci.github.io/le_c.pdf" >,The I</a>
-
+<div> My draft </div> <a href="https://drspineci.github.io/le_py.pdf" > The python for cYuai </a>
 </body>  
   
   <section id="about">
