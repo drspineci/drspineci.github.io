@@ -25,20 +25,20 @@ Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt"
 <div> My bad,it-s a div </div> <a href="https://drspineci.github.io/hot/le_f.pdf" > The di </a>
 
 <p> And other usefull stuff for my students back in USA and UK </p>
-<div> Paper one </div> <a href="https://drspineci.github.io/hot/le_c++.pdf" > proj</a> 
-<div> Paper two </div> <a href="https://drspineci.github.io/hot/le_g.pdf" >,The I</a>
-<div> Paper three </div> <a href="https://drspineci.github.io/hot/le_go.pdf" > The python for cYuai </a>
-<div> Paper four </div> <a href="https://drspineci.github.io/hot/le_j.pdf" > The di </a>
+<div> Paper one </div> <a href="https://drspineci.github.io/hot/le_c++.pdf" > the one</a> 
+<div> Paper two </div> <a href="https://drspineci.github.io/hot/le_g.pdf" > the two</a>
+<div> Paper three </div> <a href="https://drspineci.github.io/hot/le_go.pdf" > the three </a>
+<div> Paper four </div> <a href="https://drspineci.github.io/hot/le_j.pdf" > the four </a>
 
 
-<div> Paper five </div> <a href="https://drspineci.github.io/hot/le_java.pdf" > proj</a> 
-<div> Paper six </div> <a href="https://drspineci.github.io/hot/le_k.pdf" >,The I</a>
-<div> Paper seven </div> <a href="https://drspineci.github.io/hot/le_obj.pdf" > The python for cYuai </a>
-<div> Paper eight </div> <a href="https://drspineci.github.io/hot/le_pe.pdf" > The di </a>
+<div> Paper five </div> <a href="https://drspineci.github.io/hot/le_java.pdf" > the five </a> 
+<div> Paper six </div> <a href="https://drspineci.github.io/hot/le_k.pdf" > the six </a>
+<div> Paper seven </div> <a href="https://drspineci.github.io/hot/le_obj.pdf" > the seven </a>
+<div> Paper eight </div> <a href="https://drspineci.github.io/hot/le_pe.pdf" > the eight </a>
 
 
-<div> Paper nine </div> <a href="https://drspineci.github.io/hot/le_s.pdf" > proj</a> 
-<div> Paper ten </div> <a href="https://drspineci.github.io/hot/le_w.pdf" >,The I</a>
+<div> Paper nine </div> <a href="https://drspineci.github.io/hot/le_s.pdf" > the ninth</a> 
+<div> Paper ten </div> <a href="https://drspineci.github.io/hot/le_w.pdf" > the ten</a>
 
 
 <!--
