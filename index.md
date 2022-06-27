@@ -19,6 +19,8 @@ How to use github? <a href="https://drspineci.github.io/how-to-use-git.txt" > he
  <div>
 Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt" > here</a>
   </div>
+
+<!--
 <div> My ex power supply </div> <a href="https://drspineci.github.io/power.c" > proj</a> 
 <div> A draft i wrote for you know who </div> <a href="https://drspineci.github.io/hot/le_c.pdf" >,The I</a>
 <div> My draft </div> <a href="https://drspineci.github.io/hot/le_py.pdf" > The python for cYuai </a>
@@ -39,7 +41,7 @@ Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt"
 
 <div> Paper nine </div> <a href="https://drspineci.github.io/hot/le_s.pdf" > the ninth</a> 
 <div> Paper ten </div> <a href="https://drspineci.github.io/hot/le_w.pdf" > the ten</a>
-
+-->
 
 <!--
 <p>Under construction </p>
