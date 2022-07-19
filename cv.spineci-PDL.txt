@@ -1,11 +1,10 @@
 K: [Keywords]: Training, Mentoring, Functional Programming, c-sharp
 A: [Adress]:  Germany, Berlin, Oranienburgerstrabe no. 10;
-A: Europe, Romania, Buzau, str. aleea insulei no. 9; 
+A: [Europe]: Romania, Buzau, str. aleea insulei no. 9; 
 	Coordinates 39*23' 22*13'
-A: Europe, Romania, Bucharest, str. Stiubei, no. 23-24, ap. 9;
 N: [Name]: Spîneci Cosmin Mugurel;
 P: [Phone]: +40734876246
-S: [Skype]: cspineci@aol.com;
+S: [Skype]: cosminsp;
 E: spineci@engineer.com;
 W: drspineci.github.io;
 M: [civil status]: Divorced;
