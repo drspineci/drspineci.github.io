@@ -15,7 +15,7 @@ Checkout below
   </div>
   <div>
    When you are a parent and you don't know what you son does as a computer programmer 
-  The law of copyright in computer programming : <a href="https://github.com/drspineci/drspineci.github.io/blob/main/c.pdf" > Important</a>
+  The law of copyright in computer programming : <a href="https://github.com/drspineci/drspineci.github.io/blob/main/c.pdf" >Important to protect arount piracy and vigilantee acts</a>
   </div>
  <div>
 Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt" > here</a>
