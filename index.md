@@ -13,6 +13,10 @@ Checkout below
    Hardware recovery and manufacturing
   Utility cypher : <a href="https://github.com/drspineci/drspineci.github.io/blob/main/t-encrypting-and-decrypting-files.md" > T- encrypt & decrypt big data  </a>
   </div>
+  <div>
+   When you are a parent and you don't know what you son does as a computer programmer 
+  The law of copyright in computer programming : <a href="https://github.com/drspineci/drspineci.github.io/blob/main/c.pdf" > Important</a>
+  </div>
  <div>
 Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt" > here</a>
   </div>
