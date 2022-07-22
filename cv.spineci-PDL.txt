@@ -1,23 +1,23 @@
-K: [Keywords]: Training, Mentoring, Functional Programming, c-sharp
-A: [Adress]:  Germany, Berlin, Oranienburgerstrabe no. 10;
-A: [Europe]: Romania, Buzau, str. aleea insulei no. 9; 
+|K:| [Keywords]: Training, Mentoring, Functional Programming, c-sharp
+|A:| [Adress]:  Germany, Berlin, Oranienburgerstrabe no. 10;
+|A:| [Europe]: Romania, Buzau, str. aleea insulei no. 9; 
 	Coordinates 39*23' 22*13'
-N: [Name]: Spîneci Cosmin Mugurel;
-P: [Phone]: +40734876246
-S: [Skype]: cosminsp;
-E: spineci@tenta.com; cosmi@usa.com
-W: drspineci.github.io;
-M: [civil status]: Divorced;
-R: [religion]: Catholic;
-P: email me if you need the number
-L: linkedin.com/in/cosmin-mugurel-spineci-401808239;
-S: [Status.V2]: Working [Status.V1] Working 
+|N:| [Name]: Spîneci Cosmin Mugurel;
+|P:| [Phone]: +40734876246
+|S:| [Skype]: cosminsp;
+|E:| spineci@tenta.com; cosmi@usa.com
+|W:| drspineci.github.io;
+|M:| [civil status]: Divorced;
+|R:| [religion]: Catholic;
+|P:| email me if you need the number
+|L:| linkedin.com/in/cosmin-mugurel-spineci-401808239;
+|S:| [Status.V2]: Working [Status.V1] Working 
 	on a robotic arm;
-H: [Hobby]: love cooking for the whole familly and walking 
+|H:| [Hobby]: love cooking for the whole familly and walking 
 	the dogs;
-Won: Tenta browser acquired by Avast on Tenta LLC staff;
+|W:| [won]: Tenta browser acquired by Avast on Tenta LLC staff;
 
-PS [professional summary]:
+|P:| [professional summary]:
 ---------------------
  - Build by a phone line manager around the world
    across multiple carriers;
@@ -37,7 +37,7 @@ PS [professional summary]:
   I tooked a Stanford course a long time ago of java and 
   never ended crafting android applications as you can 
   see from my portofolio on github or related app links.
-Ex [Experience]:
+|Ex [Experience]:|
 -----------
   - Html 5 + Bootstrap + Python + Django + Storage 
     functionalities as SQL Models and Migrations with
@@ -48,7 +48,7 @@ Ex [Experience]:
   - mobile websites also; working on my own lab;
   - Websites using Html 5 flex technology;
   - Back-end php api's which communicate to storage;
-Ca [Carrier]:
+|Ca [Carrier]:|
 --------
   - may 2008 - present: 
     - Respond to my clients portofolio need delivering 
@@ -59,7 +59,7 @@ Ca [Carrier]:
     - Optimizing my work to be reused ensuring a flexible 
       and agile use.
     - Working at work inside teams.
-Ed [Education]:
+|Ed [Education]:|
 ----------
 	Certifications & Degrees"
  - 2022 - Data Science Professional : Inference and Modelling Certificate of Harvard University online  of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
@@ -81,9 +81,11 @@ Ed [Education]:
  - 2004 - 2007 3 years Highschool of Mathematics and 
 	IT in M. Eminescu, Buzau, Romania;
 Goodbye for now, i am off to work.
+
 More about work
   - I like to stay active I enjoy jogging in the surfing,
     bike riding mountain bike and speed bikes too.
-Cc [Civil case]: In a divorce to get my dog.  
+
+|Cc [Civil case]:| In a divorce to get my dog.  
             
 
