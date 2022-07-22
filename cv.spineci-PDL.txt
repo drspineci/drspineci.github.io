@@ -37,18 +37,18 @@
   I tooked a Stanford course a long time ago of java and 
   never ended crafting android applications as you can 
   see from my portofolio on github or related app links.
-|Ex [Experience]:|
+|Ex [Experience]|:
 -----------
   - Html 5 + Bootstrap + Python + Django + Storage 
     functionalities as SQL Models and Migrations with
     Mysql, PostgreSql, Sqlite, server management, NAS,
-    Data Services Hub,  engine, resort api's; 
+    Data Services Hub,  engine, resort api's, .net, csharp, java, swift, javascript; 
   - Some android and github
   - GIT, svn, repo;
   - mobile websites also; working on my own lab;
   - Websites using Html 5 flex technology;
   - Back-end php api's which communicate to storage;
-|Ca [Carrier]:|
+|Ca [Carrier]|:
 --------
   - may 2008 - present: 
     - Respond to my clients portofolio need delivering 
@@ -59,7 +59,7 @@
     - Optimizing my work to be reused ensuring a flexible 
       and agile use.
     - Working at work inside teams.
-|Ed [Education]:|
+|Ed [Education]|:
 ----------
 	Certifications & Degrees"
  - 2022 - Data Science Professional : Inference and Modelling Certificate of Harvard University online  of Massachusetts Hall, Cambridge USA for Tenta of Seattle for product in IT;
@@ -86,6 +86,6 @@ More about work
   - I like to stay active I enjoy jogging in the surfing,
     bike riding mountain bike and speed bikes too.
 
-|Cc [Civil case]:| In a divorce to get my dog.  
+|Cc [Civil case]|: In a divorce to get my dog.  
             
 
