@@ -1,8 +1,8 @@
 |K:| [Keywords]: Training, Mentoring, Functional Programming, c-sharp
+|N:| [Name]: Spîneci Cosmin Mugure but i preffer Ted;
 |A:| [Adress]:  Germany, Berlin, Oranienburgerstrabe no. 10;
 |A:| [Europe]: Romania, Buzau, str. aleea insulei no. 9; 
 	Coordinates 39*23' 22*13'
-|N:| [Name]: Spîneci Cosmin Mugurel;
 |P:| [Phone]: +40734876246
 |S:| [Skype]: cosminsp;
 |E:| spineci@tenta.com; cosmi@usa.com
