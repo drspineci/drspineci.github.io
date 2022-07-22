@@ -14,7 +14,8 @@ L: linkedin.com/in/cosmin-mugurel-spineci-401808239;
 S: [Status.V2]: Working [Status.V1] Working 
 	on a robotic arm;
 H: [Hobby]: love cooking for the whole familly and walking 
-	the dogs
+	the dogs;
+Won: Tenta browser acquired by Avast on Tenta LLC staff;
 
 PS [professional summary]:
 ---------------------
