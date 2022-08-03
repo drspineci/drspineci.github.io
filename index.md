@@ -45,10 +45,8 @@ Check out more about me <a href="https://drspineci.github.io/cv.spineci-PDL.txt"
 
 <div> 
 	Helping to test out the new content type. 
- <img src="park2.jpeg" height="400" alt="">
-</img>   
+ <img src="park2.jpeg" height="400" alt=""> 
  <img src="obstacle.jpeg" height="400" alt=""> 
-</img>
 </div> 
 </body>  
   
